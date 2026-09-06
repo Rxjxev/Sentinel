@@ -817,7 +817,7 @@ Make sure you have:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/23-shivamsingh/Sentinel.git
+git clone https://github.com/Rxjxev/Sentinel.git
 ```
 
 ```bash
