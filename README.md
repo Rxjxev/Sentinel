@@ -782,7 +782,7 @@ The dashboard is designed to answer three important questions:
 
 ## Live Traffic
 
-![Live API Traffic](./screenshots/live-traffic.png)
+![Live API Traffic](./screenshots/livetraffic.png)
 
 ## Threat Detection
 
@@ -794,7 +794,7 @@ The dashboard is designed to answer three important questions:
 
 ## Incident Management
 
-![Incident Management](./screenshots/incidents.png)
+![Incident Management](./screenshots/incident-management.png)
 
 ## Security Policies
 
